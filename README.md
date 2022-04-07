@@ -1,1 +1,1 @@
-## Crypto Dash
+## Crypto Dashboard
